@@ -13,6 +13,7 @@ This project is part of my Cyber Security Internship (Task 5), where the objecti
 ## 🛠 Tools Used
 - **Wireshark** (Packet Capture and Analysis)
 
+## 📂 Repository Structure
 wireshark-task5-protocol-analysis/
 │
 ├── 📄 task5_capture.pcapng # The main packet capture file
