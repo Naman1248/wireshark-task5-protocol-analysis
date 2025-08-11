@@ -13,21 +13,20 @@ This project is part of my Cyber Security Internship (Task 5), where the objecti
 ## 🛠 Tools Used
 - **Wireshark** (Packet Capture and Analysis)
 
-## 📂 Repository Structure
 wireshark-task5-protocol-analysis/
 │
-├── task5_capture.pcapng               # The main packet capture file
+├── 📄 task5_capture.pcapng # The main packet capture file
 │
-├── screenshots/                        # Screenshots showing protocol filtering & analysis
-│   ├── Screenshot_2025-08-11_110345.png   # Protocol hierarchy statistics
-│   ├── Screenshot_2025-08-11_110557.png   # TCP protocol packets
-│   ├── Screenshot_2025-08-11_110624.png   # UDP protocol packets
-│   ├── Screenshot_2025-08-11_110705.png   # DNS protocol packets
-│   ├── Screenshot_2025-08-11_110746.png   # HTTP protocol packets
-│   ├── Screenshot_2025-08-11_110825.png   # ICMP protocol packets
-│   ├── Screenshot_2025-08-11_110902.png   # QUIC protocol packets
+├── 📂 screenshots/ # Screenshots showing protocol filtering & analysis
+│ ├── Screenshot_2025-08-11_110345.png # Protocol hierarchy statistics
+│ ├── Screenshot_2025-08-11_110557.png # TCP protocol packets
+│ ├── Screenshot_2025-08-11_110624.png # UDP protocol packets
+│ ├── Screenshot_2025-08-11_110705.png # DNS protocol packets
+│ ├── Screenshot_2025-08-11_110746.png # HTTP protocol packets
+│ ├── Screenshot_2025-08-11_110825.png # ICMP protocol packets
+│ ├── Screenshot_2025-08-11_110902.png # QUIC protocol packets
 │
-└── README.md                           # Project documentation (this file)
+└── 📄 README.md # Project documentation (this file)
 
 ---
 
